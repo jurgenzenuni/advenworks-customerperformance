@@ -1,5 +1,7 @@
 📊 Customer Performance Dashboard | Adventure Works
 
+![adventworks-dash-customers](https://github.com/user-attachments/assets/96ba91a6-dab3-4057-a0ed-c6b24f71ffc7)
+
 This Power BI dashboard provides insights into customer performance using sales data from the Adventure Works dataset. The report includes key metrics, product trends, and customer behavior patterns.
 🔍 Overview
 
