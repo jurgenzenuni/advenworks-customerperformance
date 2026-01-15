@@ -1,4 +1,4 @@
-📊 Customer Performance Dashboard | Adventure Works
+# 📊 Customer Performance Dashboard | Adventure Works
 
 ![adventworks-dash-customers](https://github.com/user-attachments/assets/96ba91a6-dab3-4057-a0ed-c6b24f71ffc7)
 
