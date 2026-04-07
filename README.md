@@ -1,4 +1,4 @@
-# Customer Performance Dashboard | Adventure Works
+# Performance Dashboard | Adventure Works
 
 ![Customer Performance Dashboard](./viz.png)
 
