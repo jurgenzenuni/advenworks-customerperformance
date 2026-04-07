@@ -1,6 +1,6 @@
 # Customer Performance Dashboard | Adventure Works
 
-![adventworks-dash-customers](https://github.com/user-attachments/assets/96ba91a6-dab3-4057-a0ed-c6b24f71ffc7)
+![Customer Performance Dashboard](./viz.png)
 
 This project visualizes customer and sales performance metrics from the Adventure Works dataset using Power BI. The data was sourced via SQL queries from a relational database and transformed into insightful charts and KPIs.
 
